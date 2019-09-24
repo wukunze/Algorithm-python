@@ -28,7 +28,6 @@ class Permutation():
         #
         pass
 
-
     def next(self) -> bool:
         '''
         # 根据__choosed_list 和  __elite 生成下一个__elite的排列结果
